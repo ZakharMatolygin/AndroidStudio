@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica2_6</string>
+    <string name="exercise">Практика 2.6 Вариант-4 Матолыгин З.И. Группа РИБО-03-21 </string>
+    <string name="calculator">Банковский калькулятор вклада</string>
+    <string name="time">Длительность вклада</string>
+    <string name="percent">Годовой процент</string>
+    <string name="sum">Начальная сумма</string>
+    <string name="start">Посчитать</string>
+    <string name="textMonthlyIncome" />
+    <string name="textFinalIncome" />
+    <string name="outputMonthlyIncome">Ежемесячный доход</string>
+    <string name="outputFinalIncome">Итоговый доход</string>
+
+</resources>
